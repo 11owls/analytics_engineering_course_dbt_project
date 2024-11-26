@@ -1,0 +1,15 @@
+version: 2
+models:
+- name: ol_customers
+  description: ''
+  columns:
+  - name: customer_id
+    description: ''
+  - name: name
+    description: ''
+  - name: is_repeating_customer
+    description: ''
+  - name: life_time_value
+    description: ''
+  - name: average_order_value
+    description: ''
