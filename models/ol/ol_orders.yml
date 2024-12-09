@@ -1,7 +1,7 @@
 version: 2
 models:
 - name: ol_orders
-  description: ''
+  description: 'This model has all orders'
   columns:
   - name: order_id
     description: ''

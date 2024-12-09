@@ -13,4 +13,4 @@ SELECT
     tax_paid_cents / 100    AS tax_paid,
     order_total_cents / 100 AS order_total
 
-FROM {{ ref('cl_orders') }}
+FROM {{ ref('cl_orders') }} o
