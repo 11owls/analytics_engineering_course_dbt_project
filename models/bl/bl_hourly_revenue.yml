@@ -1,0 +1,13 @@
+version: 1
+models:
+- name: bl_hourly_revenue
+  description: ''
+  columns:
+  - name: order_date
+    description: ''
+  - name: order_date_hour
+    description: ''
+  - name: location
+    description: ''
+  - name: daily_order_value
+    description: ''

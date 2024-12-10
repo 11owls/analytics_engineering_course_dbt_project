@@ -2,3 +2,9 @@
 target/
 dbt_packages/
 logs/
+.idea/analytics_engineering_course_dbt_project.iml
+.idea/misc.xml
+.idea/vcs.xml
+.idea/modules.xml
+.idea/inspectionProfiles/profiles_settings.xml
+.idea/.gitignore
